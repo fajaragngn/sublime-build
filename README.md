@@ -1,1 +1,1 @@
-# sublime-build
+# sublime-build for OSX
